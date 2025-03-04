@@ -78,6 +78,8 @@ python main.py --mode train_eval --data_dir /path/to/dataset --result_dir /path/
 ## Results
 
 The model provides the following evaluation metrics:
+- Accuracy test: 84.04%
+- Accuracy test: 92.54%
 - Top-1 Accuracy
 - Top-5 Accuracy
 - Precision, Recall, and F1-score
