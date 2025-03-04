@@ -89,16 +89,7 @@ Training curves are automatically generated and saved to the results directory.
 
 ## Citation
 
-If you use this code for your research, please cite our work:
 
-```bibtex
-@article{your_reference_here,
-  title={Your Title Here},
-  author={Your Name},
-  journal={Journal Name},
-  year={2023}
-}
-```
 
 ## License
 
