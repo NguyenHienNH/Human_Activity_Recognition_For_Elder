@@ -81,11 +81,11 @@ The model achieves the following performance metrics:
 * **Testing Accuracy**: **85.19%**
 
 Evaluation metrics include:
-Top-1 Accuracy: 85.19%
-Top-5 Accuracy: 98.63%
-Precision: 85.35%
-Recall: 84.15%
-F1-score: 84.56%
+* **Top-1 Accuracy**: **85.19%**
+* **Top-5 Accuracy**: **98.63%**
+* **Precision**: **85.35%**
+* **Recall**: **84.15%**
+* **F1-score**: **84.56%**
 
 Training curves are automatically generated and saved to the results directory.
 
