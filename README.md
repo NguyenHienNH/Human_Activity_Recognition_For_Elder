@@ -78,13 +78,14 @@ python main.py --mode train_eval --data_dir /path/to/dataset --result_dir /path/
 ## Results
 The model achieves the following performance metrics:
 * **Training Accuracy**: **92.45%**
-* **Testing Accuracy**: **84.04%**
+* **Testing Accuracy**: **85.19%**
 
 Evaluation metrics include:
-* **Top-1 Accuracy**
-* **Top-5 Accuracy**
-* **Precision, Recall, and F1-score**
-* **Confusion Matrix**
+Top-1 Accuracy: 85.19%
+Top-5 Accuracy: 98.63%
+Precision: 85.35%
+Recall: 84.15%
+F1-score: 84.56%
 
 Training curves are automatically generated and saved to the results directory.
 
